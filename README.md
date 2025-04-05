@@ -40,36 +40,44 @@ ShopWithMe allows admin to:
 - **Searching and Sorting**
 - **Password update**
 
-## Installation
-This is a full-stack e-commerce application with a React frontend and Node.js/Express backend.
+
 
 ## Prerequisites
 Make sure you have the following installed:
 
--Node.js and npm
--Git
+- [Node.js](https://nodejs.org/) (v14 or higher recommended)
+- npm (comes with Node.js)
+- Git
 
-Steps to Run the Project
-Clone the repository:
+### 📥 Installation Steps
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-Install backend dependencies:
+Follow these steps to set up and run the project locally:
 
+1. **Clone the repository**
+
+bash
+git clone [https://github.com/your-username/your-repo-name.git
+cd your-repo-name](https://github.com/mohdrayyan025/ecommerce.git)
+
+
+2. **Install backend dependencies:**
 
 cd backend
 npm install
-Install frontend dependencies:
+
+
+3. **Install frontend dependencies:**
 
 cd ../frontend
 npm install
-Start the backend server:
 
+
+4. **Start the backend server:**
 
 cd ../backend
 node server.js
-Start the frontend development server:
 
+5.  **Start the frontend development server:**
 
 cd ../frontend
 npm start
