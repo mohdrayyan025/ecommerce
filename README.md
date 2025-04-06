@@ -1,7 +1,4 @@
 # Shop with me (Ecommerce-website)
-## live deployed link :- ...
-
-### video demo
 
 ShopWithMe is a fully functional e-commerce website. It contains numerous functionality from payment gateway to admin dashboard. People can view product, buy them , track their orders and a lot more.
 
