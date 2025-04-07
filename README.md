@@ -53,8 +53,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository**
 
 bash
-git clone [https://github.com/your-username/your-repo-name.git
-cd your-repo-name](https://github.com/mohdrayyan025/ecommerce.git)
+git clone [https://github.com/mohdrayyan025/ecommerce.git](https://github.com/mohdrayyan025/ecommerce.git)
 
 
 2. **Install backend dependencies:**
